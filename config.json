@@ -1,0 +1,14 @@
+{
+  "base_url": "https://app.staging.shipsticks.com",
+  "browser": "chromium",
+  "headless": false,
+  "timeout": 30000,
+  "test_data": {
+    "shipment_type": "One-way",
+    "item": "Golf Bag (Standard)",
+    "origin": "1234 Main Street, Los Angeles, CA, USA",
+    "destination": "4321 Main St, Miami Lakes, FL, USA",
+    "service_level": "Ground",
+    "delivery_date": "Wednesday, April 8, 2026"
+  }
+}
